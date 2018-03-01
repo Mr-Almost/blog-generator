@@ -3,21 +3,22 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Blog
-subtitle:
-description:
-author: Zhaijunhao
-language:
-timezone:
+title: Mr-Almost's Blog
+subtitle: 翟俊豪
+description: 深圳大学15级信工
+author: Mr-Almost
+email: 499158415@qq.com
+language: zh-Hans
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://github.com/Mr-Almost
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
 # Directory
+post_asset_floder: true
 source_dir: source
 public_dir: public
 tag_dir: tags
@@ -72,13 +73,13 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-theme-yilia
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:Mr-Almost/Mr-Almost.github.io.git  （这是github里对应空仓库的SSH地址，复制粘贴过来）
+  repo: git@github.com:Mr-Almost/Mr-Almost.github.io.git
 
 
 
