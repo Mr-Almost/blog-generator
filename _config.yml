@@ -78,4 +78,7 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:Mr-Almost/Mr-Almost.github.io.git
+  repo: git@github.com:Mr-Almost/Mr-Almost.github.io.git  （这是github里对应空仓库的SSH地址，复制粘贴过来）
+
+
+
